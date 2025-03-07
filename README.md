@@ -1,5 +1,5 @@
 ## AI Researcher | Specializing in LLM Quantization  
-💡 Interested in CUDA Programming and LLM Inference Optimization
+💡 Interested in LLM Inference Optimization and CUDA Programming
 
 
 <!--
