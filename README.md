@@ -1,4 +1,6 @@
-## Hi there 👋
+## AI Researcher | Specializing in LLM Quantization  
+💡 Interested in CUDA Programming and LLM Inference Optimization
+
 
 <!--
 **bslee13579/bslee13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
